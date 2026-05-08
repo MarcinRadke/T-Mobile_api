@@ -25,6 +25,7 @@ A comprehensive test suite for validating the NBP (National Bank of Poland) exch
 - **REST Assured**: API testing library
 - **JUnit**: Test execution engine
 - **Jackson**: JSON processing
+- **Log4j**: Logging in console
 
 ## 📋 Prerequisites
 
